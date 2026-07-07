@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on game designing<br>👯 I’m looking to collaborate on game development <br>🤝 I’m looking for help with Engine Architecture <br>🌱 I’m currently learning C# and Lua<br>💬 Ask me about game development <br>⚡ Fun fact,  I am a gamer.
+🔭 I’m currently working on game designing<br>👯 I’m looking to collaborate on game development <br>🤝 I’m looking for help with Engine Architecture <br>🌱 I’m currently learning C# and Lua<br>💬 Ask me about game development.
 
 
 ## 🌐 Socials:
