@@ -20,6 +20,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohithnafeel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=rohithnafeel&icon=0&color=0)](https://visitcount.itsvg.in)
