@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on game designing<br>👯 I’m looking to collaborate on game development <br>🤝 I’m looking for help with Engine Architecture <br>🌱 I’m currently learning C# and Lua<br>💬 Ask me about game development.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithnafeel/) 
 
